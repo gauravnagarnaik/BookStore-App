@@ -1,0 +1,9 @@
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_delete"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom|withText"
+        android:title="@string/delete"
+        android:icon="@android:drawable/ic_menu_delete"/>
+</menu><!-- From: file:/I:/Assignment%204/BookStore_ContentProviders_GauravNagarnaik/BookstoreBasic_ContentProvider/app/src/main/res/menu/context_menuitem.xml -->

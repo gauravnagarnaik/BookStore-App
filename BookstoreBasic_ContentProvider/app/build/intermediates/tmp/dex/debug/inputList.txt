@@ -1,0 +1,1 @@
+I:\Assignment 4\BookStoreWithContentProviders_GauravNagarnaik\BookstoreBasicwithContentProvider\app\build\intermediates\classes\debug

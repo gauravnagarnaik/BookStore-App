@@ -1,0 +1,7 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="edu.stevens.cs522.bookstore.activities.BooksAdapter">
+    <item android:id="@+id/action_settings" android:title="@string/action_settings"
+        android:orderInCategory="100" android:showAsAction="never" />
+</menu>
+<!-- From: file:/I:/Assignment%204/BookStore_ContentProviders_GauravNagarnaik/BookstoreBasic_ContentProvider/app/src/main/res/menu/menu_books_adapter.xml -->
